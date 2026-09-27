@@ -92,13 +92,3 @@ Este projeto segue as 6 fases do CRISP-DM. Cada fase tem um notebook próprio em
 
 Lembre-se: CRISP-DM é iterativo. É normal e esperado voltar a uma fase anterior quando uma descoberta em uma fase posterior exigir isso (ex: descobrir na modelagem que um outlier não foi bem tratado na preparação dos dados).
 
-## Progresso
-
-Use esta seção para marcar seu progresso e anotar decisões importantes conforme avança:
-
-- [ ] Fase 1 concluída
-- [ ] Fase 2 concluída
-- [ ] Fase 3 concluída
-- [ ] Fase 4 concluída
-- [ ] Fase 5 concluída
-- [ ] Fase 6 concluída
