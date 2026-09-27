@@ -1,0 +1,2 @@
+# Coloque aqui os modelos treinados e salvos (ex: logistic_regression.pkl, random_forest.pkl).
+# Esta pasta é ignorada pelo git (ver .gitignore) — apenas este arquivo é versionado para manter a pasta no repositório.

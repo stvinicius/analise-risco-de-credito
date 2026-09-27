@@ -1,0 +1,2 @@
+# Coloque aqui os dados já tratados/gerados pelos seus notebooks (ex: train_clean.csv, val_clean.csv).
+# Esta pasta é ignorada pelo git (ver .gitignore) — apenas este arquivo é versionado para manter a pasta no repositório.
